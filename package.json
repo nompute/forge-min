@@ -1,0 +1,19 @@
+{
+  "name": "forge-min",
+  "version": "0.6.40-dev",
+  "description": "Pre-minified version of https://github.com/digitalbazaar/forge for inclusion in client-side modules.",
+  "main": "forge.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nompute/forge-min.git"
+  },
+  "author": "Michael Lai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nompute/forge-min/issues"
+  },
+  "homepage": "https://github.com/nompute/forge-min#readme"
+}
